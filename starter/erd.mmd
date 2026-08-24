@@ -1,0 +1,23 @@
+%% GIVEN TEMPLATE -- real Mermaid syntax, real TODOs. Plain text, so it
+%% version-controls cleanly (Databricks/Astro-notebook-format-style
+%% preference this session: real, diffable text over a binary/GUI-only
+%% diagram). Paste this into the Mermaid Live Editor
+%% (https://mermaid.live) to see it render for real as you build it --
+%% don't wait until the end to find out it doesn't parse.
+%%
+%% exemplar_guidance's own instruction: a strong ERD makes sensitivity
+%% tiering visible AT A GLANCE -- label each entity/attribute with its
+%% real tier (e.g. "string PII_restricted" as the type, or a real
+%% comment), not buried in a separate doc nobody will cross-reference.
+%% This diagram and your data_contract.schema.yaml MUST agree on every
+%% field's real tier -- a contradiction between the two is
+%% common_project_mistakes' own #4.
+
+erDiagram
+    TODO_ENTITY_NAME {
+        string TODO_field_name "TODO: real sensitivity tier, e.g. restricted-HIPAA"
+    }
+
+    %% TODO: add every real entity in your dataset, and the real
+    %% relationships between them (one-to-many, etc.) -- e.g.:
+    %% PATIENTS ||--o{ ENCOUNTERS : has

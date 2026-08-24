@@ -1,0 +1,57 @@
+# GIVEN TEMPLATE -- real structure, real TODOs. This is a real JSON
+# Schema, authored in YAML (YAML supports comments; plain JSON
+# doesn't -- this file loads via PyYAML then validates as a real JSON
+# Schema, same as the independent project asks you to build without a
+# template). See ../MVP.md for what "done" actually requires.
+#
+# Design the access-control section from the regulation backward, not
+# the schema forward (exemplar_guidance's own instruction): identify
+# your real, named regulation first (HIPAA, FISMA/NIST RMF, CJIS, GLBA,
+# etc. -- whichever genuinely applies to your chosen domain), THEN
+# decide which fields get which sensitivity tier.
+
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: TODO_your_dataset_name_data_contract
+description: >
+  TODO: one real sentence -- what this dataset is, and which real,
+  named regulation governs it (e.g. "Patient encounter records,
+  governed by HIPAA's Privacy Rule").
+
+# TODO: real ownership/stewardship metadata -- who owns this data,
+# who to contact, how often it refreshes. Required for
+# metadata-management/data-cataloging -- a real team member unfamiliar
+# with this project should be able to find and understand this
+# dataset's purpose from this section alone.
+x-stewardship:
+  owner: TODO
+  steward_contact: TODO
+  refresh_cadence: TODO
+  business_glossary:
+    TODO_field_name: TODO_plain_language_definition
+
+type: object
+properties:
+  # TODO: one entry per real field in your dataset. Each field needs:
+  #   - a real JSON Schema type
+  #   - x-sensitivity-tier: public | internal | confidential | restricted
+  #   - x-regulatory-basis: the SPECIFIC real regulation/clause that
+  #     justifies this tier -- common_project_mistakes' own #1 trap is
+  #     assigning the same tier to every field with no real reasoning.
+  #     "we should follow HIPAA" is not a real basis -- name the actual
+  #     rule (see required_components.md Section 1).
+  TODO_field_name:
+    type: string  # TODO: pick the real type (string/integer/number/boolean/etc.)
+    x-sensitivity-tier: TODO
+    x-regulatory-basis: TODO
+
+required: []  # TODO: which fields are truly required, and why
+
+# TODO: real access-control requirements -- who/what role can read,
+# write, or is denied entirely. Must genuinely agree with the
+# x-sensitivity-tier values above and with erd.mmd -- a contract and
+# diagram that contradict each other is common_project_mistakes' #4.
+x-access-control:
+  TODO_role_name:
+    can_read: []
+    can_write: []
+    denied: []
