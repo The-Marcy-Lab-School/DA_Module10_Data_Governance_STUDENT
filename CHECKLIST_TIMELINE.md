@@ -55,4 +55,17 @@ regulatory research. Don't mistake "no setup" for "less work."
 - [ ] A real regulation-gap memo, naming the real specific framework
       and gap.
 - [ ] A real open-data publication plan, with a real partner.
+- [ ] **Delete `PROJECT_OVERVIEW.md` and `SCENARIOS.md`** — they explain
+      the assignment, not your project; a real portfolio repo shouldn't
+      have "here's what you were asked to build" sitting in it.
+- [ ] **Replace `README.md`'s content with your own real project README**
+      — write it for someone who's never seen this assignment:
+  - **Business Problem** — your dataset and its real, matching
+    regulation.
+  - **Regulatory Framework** — the specific framework you applied and
+    why.
+  - **Data Contract & ERD Overview** — your real classification/access-
+    control design.
+  - **Governance Recommendations** — your real gap-memo and publication-
+    plan findings.
 - [ ] Ownership/stewardship metadata for ≥3 real fields.
