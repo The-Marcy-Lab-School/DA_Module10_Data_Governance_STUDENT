@@ -42,7 +42,8 @@ cloud signup needed this module (the lightest-weight setup so far).
   **given, real templates** — real structure, the actual field-by-
   field classification/access-control content left as `TODO`. Following
   them is the guided rep; your real, independent project needs more
-  than filling in these TODOs (see `MVP.md`).
+  than filling in these TODOs — your instructor's shared checklist has
+  the full required scope.
 - Pick your real dataset and its real, matching regulation (see
   `SCENARIOS.md`).
 - Classify every field for real, using `starter/classification_rubric.md`
@@ -63,8 +64,8 @@ cloud signup needed this module (the lightest-weight setup so far).
 sequenced checklist.
 
 **Where's the exact bar for "done," and what are the optional stretch
-goals?** This repo (your own copy) doesn't include `MVP.md` or
-`ABOVE_AND_BEYOND.md` on purpose — they're not something to keep sitting
+goals?** This repo (your own copy) doesn't include `MVP.md` (your **M**inimum **V**iable **P**roduct —
+the required baseline) or `ABOVE_AND_BEYOND.md` on purpose — they're not something to keep sitting
 in your portfolio repo. Ask your instructor for the link to this
 template's `project-scope` branch to read them, or check the checklist
 your instructor shares through the classroom, which covers the same
