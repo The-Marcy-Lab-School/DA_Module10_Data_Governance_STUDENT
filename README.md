@@ -3,7 +3,8 @@
 Start with `PROJECT_OVERVIEW.md` for what you're building and why. This
 file (`README.md`) is where the step-by-step setup lives.
 
-**Due:** 7 days. See `CHECKLIST_TIMELINE.md` for the day-by-day pace
+**Due:** 7 days for your own submission, plus a required share-out
+session scheduled after. See `CHECKLIST_TIMELINE.md` for the day-by-day pace
 and the full submission checklist.
 
 This repo is a **GitHub template** — a starting point, not something you
@@ -35,6 +36,22 @@ every prior module.
 
 See `GETTING_STARTED.md` — a one-line `pip install`, no accounts, no
 cloud signup needed this module (the lightest-weight setup so far).
+
+## Find a real partner — for the open-data publication plan only
+
+Everything else in this project is solo — this one deliverable
+(`starter/open_data_publication_plan.md`) needs a real second person, a
+real redaction/metadata decision made together, not solo with a
+partner's name added after.
+
+**How partners are formed**: self-organize first — post in your
+cohort's channel, or just ask around; most students pair up this way
+within a day. **If you don't have a partner by Day 3** (see
+`CHECKLIST_TIMELINE.md`), message your instructor directly — they'll
+either pair you with someone else who's still looking, or, if the
+cohort has an odd number, set up one real group of 3 for this one
+deliverable. Asking for this is normal, not a sign you're behind —
+don't wait until the deadline to raise it for the first time.
 
 ## What to do
 

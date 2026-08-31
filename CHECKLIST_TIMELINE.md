@@ -11,6 +11,10 @@ regulatory research. Don't mistake "no setup" for "less work."
       CMS/data.gov alternative).
 - [ ] The real, specific regulation that applies to your domain named
       (`SCENARIOS.md`).
+- [ ] **Start looking for your Day 4 partner now** (see `README.md`) —
+      don't wait until Day 4 to start; most students self-organize
+      within a day or two, but that takes calendar time you don't want
+      to lose later in the week.
 
 ## Day 2 — Field classification
 
@@ -26,7 +30,8 @@ regulatory research. Don't mistake "no setup" for "less work."
 
 ## Day 4 — Open-data publication plan (with a partner)
 
-- [ ] Real partner found.
+- [ ] Real partner found (see `README.md` if you don't have one yet —
+      message your instructor, don't just wait).
 - [ ] `open_data_publication_plan.md` filled in for real: real
       redaction/aggregation level, real reasoning, real metadata.
 
@@ -44,6 +49,16 @@ regulatory research. Don't mistake "no setup" for "less work."
 
 - [ ] `required_components.md` fully filled in with real evidence.
 - [ ] Commit and push.
+
+## Day 8 — Share-out
+
+Your instructor schedules this once every submission is in — usually a
+few days after Day 7, not necessarily the next calendar day. Real
+session, not optional: small groups exchange real regulatory reasoning
+(your named framework, a field classification that was a real judgment
+call) and your open-data publication plan gets real peer feedback from
+outside your partner pair. Bring your real data contract, ERD, and
+publication plan — see your instructor for the exact date.
 
 ## Submission checklist
 
