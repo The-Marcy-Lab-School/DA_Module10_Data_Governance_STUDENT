@@ -52,8 +52,9 @@ Governance) and **Module 15** (the final project).
 
 ## Timeline
 
-7 days. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and the
-full submission checklist.
+7 days for your own submission, plus a required share-out session
+scheduled after. See `CHECKLIST_TIMELINE.md` for the day-by-day pace and
+the full submission checklist.
 
 ## Where to start
 
