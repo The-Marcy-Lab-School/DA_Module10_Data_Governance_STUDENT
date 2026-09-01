@@ -7,7 +7,7 @@ regulatory research. Don't mistake "no setup" for "less work."
 ## Day 1 — Setup, dataset, regulation
 
 - [ ] `jsonschema`/`pyyaml` installed, confirmed with `check_schema`.
-- [ ] Real dataset picked (your own Module 3/7/8 domain, or a real
+- [ ] Real dataset picked (your own Module 3/8/9 domain, or a real
       CMS/data.gov alternative).
 - [ ] The real, specific regulation that applies to your domain named
       (`SCENARIOS.md`).

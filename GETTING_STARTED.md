@@ -53,7 +53,7 @@ contract if you go this route.
 ## Step 4: your real dataset and regulation
 
 See `SCENARIOS.md` for how to pick your real dataset (likely your own
-Module 3/7/8 domain) and its real, matching regulation.
+Module 3/8/9 domain) and its real, matching regulation.
 
 ## What's next
 
