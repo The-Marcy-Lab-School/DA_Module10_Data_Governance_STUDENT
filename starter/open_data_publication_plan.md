@@ -31,7 +31,7 @@ safe."
 
 TODO: what would a real external user, with zero context, need to
 understand this dataset's real scope and limitations without contacting
-your team (`documentation`'s own real bar, reinforcing Module 7)? Real
+your team (`documentation`'s own real bar, reinforcing Module 8)? Real
 refresh cadence, real known limitations, a real contact/owner.
 
 ## Partners
