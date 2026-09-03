@@ -5,7 +5,7 @@ end.
 
 ## 1. Your real dataset and regulation
 
-- Your real, chosen dataset (source — likely your own Module 3/8/9
+- Your real, chosen dataset (source — likely your own Module 3/7/8
   domain data):
 - The real, specific, named regulation that applies (HIPAA, FISMA/NIST
   RMF, CJIS, GLBA, or another real, specific framework for your

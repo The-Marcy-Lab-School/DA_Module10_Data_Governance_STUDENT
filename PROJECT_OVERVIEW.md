@@ -19,7 +19,7 @@ real data governance/compliance team answers every day, and the same
 reasoning `pii-classification-ai-rag` requires **before** any dataset
 gets handed to an AI/RAG pipeline, not after. `data-governance` is an
 explicit prerequisite for both **Module 14** (Responsible AI
-Governance) and **Module 15** (the final project).
+Governance) and **Module 13** (the final project).
 
 ## Deliverables at a glance
 
