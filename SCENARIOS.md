@@ -1,9 +1,9 @@
 # Your Real Dataset and Regulation
 
-Unlike Module 10, this project doesn't need a new external data pull —
+Unlike Module 9, this project doesn't need a new external data pull —
 the real point of this module is applying governance/classification
 reasoning to a dataset you already know deeply. **Reuse your own
-Module 3/8/9 domain dataset.**
+Module 3/7/8 domain dataset.**
 
 ## Match your real domain to its real, specific regulation
 
