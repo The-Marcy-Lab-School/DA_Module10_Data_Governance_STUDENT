@@ -33,6 +33,8 @@ AI) and **Module 13** (the final project).
 - A real open-data publication plan — **with a partner** — for a given
   geospatial public dataset: what needs redaction, what metadata must
   accompany release.
+- `required_components.md`, filled in as you go with real evidence for
+  every section above — not reconstructed from memory at the end.
 
 ## Skills you'll practice
 
